@@ -1,0 +1,104 @@
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Rubik', sans-serif;
+}
+body, p, span, a{
+    font-family: 'Rubik', sans-serif;
+    color: #ffff;
+}
+body{
+    background: black;
+}
+.popup-area{
+    border: 1px solid red;
+    margin: auto;
+    margin-top: 200px;
+    margin-bottom: 100px;
+
+}
+
+.elite-img img{
+    margin-left: 128px;
+}
+
+.elite-test{
+    text-align: center;
+    padding-bottom: 200px;
+    
+}
+.elite-test h1{
+    font-size: 20px;
+}
+
+.profile-link{ 
+    text-align: center;
+}
+.fotter-text {
+	text-align: center;
+	padding-top: 36px !important;
+}
+
+.fotter-img-left img {
+	max-width: 150px;
+	height: auto;
+	margin-left: 20px;
+}
+.fotter-img-right img {
+	max-width: 130px;
+	height: auto;
+}
+
+
+/** responsive css **/
+
+@media (max-width: 992px){
+    .profile-link{
+        font-size: 15px;
+    }
+    .fotter-text h4 {
+        font-size: 22px;
+}
+
+
+@media (max-width: 768px){
+
+    .elite-img img {
+        margin-left: 30px;
+    }
+    .fotter-img-left img {
+        max-width: 142px;
+        height: auto;
+        margin-left: 0;
+        text-align: center;
+    }
+    .fotter-img-right img {
+        max-width: 110px;
+        height: auto;
+        text-align: center;
+    }
+    .fotter-text h4 {
+	font-size: 18px;
+}
+
+
+}
+
+@media (max-width: 576px) {
+
+    .profile-link{ 
+        padding: 10px;
+    }
+    .elite-img img {
+        margin: auto;
+    }
+    .fotter-img-left{
+        text-align: center;
+    }
+    .fotter-img-right{
+        text-align: center;
+    }
+    }
+
+}
+
+
+

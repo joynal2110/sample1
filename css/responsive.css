@@ -1,0 +1,143 @@
+@media (max-width:1400px){
+
+    .header-button .btn {
+        font-size: 12px;
+        padding: 13px;
+        width: 101px;
+    }
+    ul.our-primary-menu li a {
+        padding: 7px 9px;
+        font-size: 17px;
+    }
+    
+
+}
+@media (max-width:1200px){
+
+    .header-button .btn {
+        font-size: 12px;
+        padding: 13px;
+        width: 101px;
+    }
+    ul.our-primary-menu li a {
+        padding: 7px 9px;
+        font-size: 17px;
+    }
+    .slider-content-wrap {
+        height: 52vh;
+
+    }
+    .slider-content h1 {
+        font-size: 56px;
+
+    }
+    .header-call {
+        width: 186px;
+    }
+    
+
+}
+@media (max-width:992px){
+    ul.our-primary-menu li ul {
+        top: 49px;
+        left: 100px;
+        z-index: 99;
+        position: absolute;
+    }
+    .main-header{
+        position: relative;
+    }
+    .finix-text ul {
+
+        font-size: 17px;
+        margin: 0;
+
+    }
+    .slider-content h1 {
+        font-size: 48px;
+    }
+    .finix-text strong {
+        font-size: 20px;
+        margin: 0;
+
+    }
+    .finix-text p {
+        font-size: 13px;
+        margin: 0;
+
+    }
+    .finix-text h2 {
+        font-size: 26px;
+
+    }
+    .finix-text ul li {
+        padding: 0px 0;
+    }
+    .about-text {
+        padding-left: 36px;
+        padding-right: 0;
+    }
+    .navbar-expand-lg .navbar-nav {
+        width: 580px;
+        padding: 0;
+    }
+    .aplay-text-left {
+        margin-bottom: 28px;
+    }
+    .solution-text{
+        font-size: 30px;
+        padding: 0 15px;
+    }
+    .header-call-info.solution a {
+        font-size: 20px;
+        padding: 12px 0;
+    }
+    .solution-call-icon {
+        font-size: 31px;
+        height: 72px;
+        width: 61px;
+        line-height: 66px;
+        border-radius: 50%;
+
+    }
+    .finix-text {
+        text-align: center;
+    }
+    .service-item li strong {
+        font-size: 16px;
+        font-weight: 400;
+
+    }
+    .service-item li span i {
+        height: 65px;
+        width: 53px;
+        line-height: 54px;
+        font-size: 42px;
+    }
+  
+  
+}
+
+@media (max-width:768px){
+    .feature-item-text {
+ 
+        margin-bottom: 30px;
+        width: 326px;
+        margin: auto;
+        margin-top: 36px;
+    }
+    .finix-text {
+        text-align: center;
+    }
+    .service-item li strong {
+        font-size: 16px;
+        font-weight: 400;
+
+    }
+    .service-item li span i {
+        height: 65px;
+        width: 53px;
+        line-height: 54px;
+        font-size: 42px;
+    }
+}
